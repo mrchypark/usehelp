@@ -17,3 +17,5 @@ Imports:
     xml2,
     rvest,
     magrittr
+URL: https://github.com/mrchypark/usehelp
+BugReports: https://github.com/mrchypark/usehelp/issues
